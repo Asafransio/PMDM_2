@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Datos Personales</string>
+    <string name="nombre_esp">Nombre</string>
+    <string name="apellidos_esp">Apellidos</string>
+    <string name="edad_esp">Edad</string>
+    <string name="genero_esp">Género</string>
+    <string name="radio1_esp">Varón</string>
+    <string name="radio2_esp">Mujer</string>
+    <string name="estado_esp">Estado civil</string>
+    <string name="hijos_esp">Hijos</string>
+    <string name="si_esp">Si</string>
+    <string name="no_esp">No</string>
+    <string name="aceptar_esp">Aceptar</string>
+    <string name="limpiar_esp">Limpiar</string>
+    <string name="nombreIn_esp">Introduzca su nombre</string>
+    <string name="apellidosIn_esp">Introduzca su apellido</string>
+
+    <string name="nombre_ing">Name</string>
+    <string name="apellidos_ing">Surnames</string>
+    <string name="edad_ing">Age</string>
+    <string name="genero_ing">Gender</string>
+    <string name="radio1_ing">Male</string>
+    <string name="radio2_ing">Female</string>
+    <string name="estado_ing">Marital status</string>
+    <string name="hijos_ing">Childs</string>
+    <string name="si_ing">Y</string>
+    <string name="no_ing">N</string>
+    <string name="aceptar_ing">Enter</string>
+    <string name="limpiar_ing">Erase</string>
+    <string name="nombreIn_ing">Type your name</string>
+    <string name="apellidosIn_ing">Type your surname</string>
+
+
+    <string-array name="adapter_esp">
+        <item>Solter@</item>
+        <item>Casad@</item>
+        <item>Separad@</item>
+        <item>Viud@</item>
+        <item>Otr@</item>
+    </string-array>
+
+    <string-array name="adapter_ing">
+        <item>Single</item>
+        <item>Married</item>
+        <item>Divorced</item>
+        <item>Widowed</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
